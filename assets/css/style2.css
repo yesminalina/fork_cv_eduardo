@@ -1,0 +1,16 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  .navbar {
+    background-color: black;
+  }
+  .navbar-brand {
+    width: 180px;
+  }
+  section{
+    background-color: black;
+  }
+  .card-body{
+    background-color: black;
+    color: white;
+  }
